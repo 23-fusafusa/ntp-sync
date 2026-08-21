@@ -10,7 +10,7 @@
 # ##################################################
 #   SYNC INTERVAL IN MINUTES -- change this number only
 #   1 = every minute, 2 = every 2 minutes, 5 = every 5 minutes
-$IntervalMinutes = 2
+$IntervalMinutes = 5
 # ##################################################
 
 $taskName   = "NTP Time Sync (NICT)"
